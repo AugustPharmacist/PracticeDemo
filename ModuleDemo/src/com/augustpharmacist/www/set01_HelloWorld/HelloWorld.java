@@ -1,4 +1,4 @@
-package com.augustpharmacist.www.set01;
+package com.augustpharmacist.www.set01_HelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
