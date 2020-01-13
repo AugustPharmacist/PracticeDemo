@@ -14,7 +14,7 @@ import java.util.Set;
         2.遍历set集合,获取Map集合中的每一个key
         3.通过Map集合中的方法get(key),通过key找到value
  */
-public class Demo02KeySet {
+class Demo02KeySet {
     public static void main(String[] args) {
         //创建Map集合对象
         Map<String,Integer> map = new HashMap<>();

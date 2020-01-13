@@ -12,7 +12,7 @@ package com.augustpharmacist.www.set10_Collection$genericity.demo03.Generic;
         public E get(int index) {}
     }
  */
-public class GenericInterfaceImpl2<I> implements GenericInterface<I> {
+class GenericInterfaceImpl2<I> implements GenericInterface<I> {
     @Override
     public void method(I i) {
         System.out.println(i);
