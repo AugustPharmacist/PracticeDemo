@@ -6,7 +6,7 @@ package com.augustpharmacist.www.set15_ThreadAndLambda.demo01.WaitAndNotify;
 		陷
 		包子的状态: 有 true,没有 false
  */
-public class BaoZi {
+class BaoZi {
     //皮
     String pi;
     //陷
